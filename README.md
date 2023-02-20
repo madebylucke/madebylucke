@@ -1,4 +1,4 @@
-# Lucas Christiansson - @luckelc
+## Lucas Christiansson - @luckelc
 
 Hi, I'm Lucas - a student based in Sweden studying at [Nösnäs](https://www.stenungsund.se/webbsidor/huvudmeny/barnutbildning/gymnasium/nosnasgymnasiet) high school. I'm currently learning HTML and CSS in school. I started learning C# on my spare time 3 years ago until recently when I switched to C++.
 
