@@ -1,15 +1,27 @@
-## Lucas Christiansson - @luckelc
+# Lucas Christiansson - @luckelc  
 
-Hi, I'm Lucas - a student based in Sweden studying at [Nösnäs](https://www.stenungsund.se/webbsidor/huvudmeny/barnutbildning/gymnasium/nosnasgymnasiet) high school. I'm currently learning HTML and CSS in school. I started learning C# on my spare time 3 years ago until recently when I switched to C++.
+🚀 **Developer | Designer | Computer Science Student @ Chalmers**  
+Passionate about building apps, crafting experiences, and pushing creative boundaries.  
 
-I love to learn new stuff and have recently started working with React and NodeJs to compliment my work in my web development process.
+<br>
 
-### Skills
+## 🛠 What I Do  
+- **📱 Mobile Development** – Building React Native apps  
+- **🎨 UI/UX Design** – Designing in Figma  
+- **📹 Video & Motion Design** – Editing and crafting visuals  
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></p>
+<br>
 
-### Get in touch
+## 🔧 Tech Stack  
+- **Frontend:** React Native, TypeScript  
+- **Design:** Figma, Inkscape  
+- **Code Editor:** VS Code  
+- **Hardware:** MacBook Pro M1  
 
-* Twitter: [https://twitter.com/lucke_lc](https://twitter.com/lucke_lc)
-* LinkedIn: [https://www.linkedin.com/in/lucaschristiansson/](https://www.linkedin.com/in/lucaschristiansson/)
+<br>
+
+## 📫 Let's Connect  
+- **Twitter:** [@lucke_lc](https://twitter.com/lucke_lc)  
+- **LinkedIn:** [lucaschristiansson](https://www.linkedin.com/in/lucaschristiansson/)  
+
+
