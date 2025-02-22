@@ -3,8 +3,6 @@
 🚀 **Developer | Designer | Computer Science Student @ Chalmers**  
 Passionate about building apps, crafting experiences, and pushing creative boundaries.  
 
-<br>
-
 ## 🛠 What I Do  
 - **📱 Mobile Development** – Building React Native apps  
 - **🎨 UI/UX Design** – Designing in Figma  
