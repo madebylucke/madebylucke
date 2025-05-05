@@ -1,4 +1,4 @@
-# Lucas Christiansson - @luckelc  
+# Lucas Christiansson - @madebylucke 
 
 🚀 **Developer | Designer | Computer Science Student @ Chalmers**  
 Passionate about building apps, crafting experiences, and pushing creative boundaries.  
@@ -17,11 +17,3 @@ Passionate about building apps, crafting experiences, and pushing creative bound
 - **Design:** Figma, Inkscape  
 - **Code Editor:** VS Code  
 - **Hardware:** MacBook Pro M1  
-
-<br>
-
-## 📫 Let's Connect  
-- **Twitter:** [@lucke_lc](https://twitter.com/lucke_lc)  
-- **LinkedIn:** [lucaschristiansson](https://www.linkedin.com/in/lucaschristiansson/)  
-
-
