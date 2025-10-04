@@ -1,6 +1,6 @@
 # Lucas Christiansson - @madebylucke 
 
-🚀 **Developer | Designer | Computer Science Student @ Chalmers**  
+🚀 **Developer | Designer | Computer Engineering Student @ Chalmers School of Technology**  
 Passionate about building apps, crafting experiences, and pushing creative boundaries.  
 
 <br>
@@ -13,7 +13,6 @@ Passionate about building apps, crafting experiences, and pushing creative bound
 <br>
 
 ## 🔧 Tech Stack  
-- **Frontend:** React Native, TypeScript  
-- **Design:** Figma, Inkscape  
-- **Code Editor:** VS Code  
-- **Hardware:** MacBook Pro M1  
+- **Frontend:** React Native, TypeScript
+- **Backend:** Spring (Java)
+- **Design:** Figma, Inkscape
